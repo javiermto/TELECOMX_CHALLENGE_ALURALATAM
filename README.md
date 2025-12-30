@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn
 
 **Cómo Ejecutar el Proyecto**
 
-1. Clona este repositorio: git clone https://github.com/tu-usuario/nombre-del-repo.git
+1. Clona este repositorio: git clone https://github.com/javiermto/TELECOMX_CHALLENGE_ALURALATAM/tree/main
 2. Asegúrate de que el archivo de datos esté en la ruta correcta definida en el notebook.
 3. Abre el archivo principal del análisis (por ejemplo, TELECONCHALLENGE.ipynb) en Jupyter Notebook o Google Colab.
 4. Ejecuta las celdas de forma secuencial.
